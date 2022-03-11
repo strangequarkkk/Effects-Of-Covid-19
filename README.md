@@ -4,7 +4,7 @@ Python libraries used: Numpy, Matplotlib.pyplot.
 
 In this Coursework/Project,
 
-I analyzed the effects of Covid-19 from early March until just before Christmas last year by presenting the data acquired from https://coronavirus.data.gov.uk/details/download more clearly. I compared the weekly deaths caused by COVID-19 to the weekly deaths caused by Influenza and other causes. Also worked with a model which very crudely followed the trend observed between week 28-38.
+I analyzed the effects of Covid-19 from early March until just before Christmas last year by presenting the data acquired from https://coronavirus.data.gov.uk/details/download more clearly. I compared the weekly deaths caused by COVID-19 to the weekly deaths caused by Influenza and other causes. Also worked with a model which very crudely followed the trend in weekly infections observed between week 28-38 during the pandemic.
 
 Plotted and studied a simpler implementation of the SIR model, which was used to model the pandemic.
 

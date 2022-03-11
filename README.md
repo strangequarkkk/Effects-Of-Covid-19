@@ -10,6 +10,6 @@ Plotted and studied a simpler implementation of the SIR model, which was used to
 
 I have attached the relevant question sheet and recommend that it be read while you're looking at the code. The programs were written in a Jupyter Notebook which has also been attached.
 
-Data files used have also been attached
+Data file(s) used have also been attached.
 
 If you need any more information/explanation related to the code, don't hesitate to contact me.
